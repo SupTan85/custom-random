@@ -1,0 +1,5 @@
+# ignore debug file
+test.lua
+
+# ignore folder
+.lh
