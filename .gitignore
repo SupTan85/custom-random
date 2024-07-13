@@ -1,5 +1,6 @@
-# ignore debug file
+# ignore debug file and windows config
 test.lua
+desktop.ini
 
 # ignore folder
 .lh
